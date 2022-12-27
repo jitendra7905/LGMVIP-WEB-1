@@ -2,7 +2,7 @@
   "name": "lgm-task-one",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jitendra7905.github.io/LGMVIP-WEB-1-master",
+  "homepage": "https://jitendra7905.github.io/LGMVIP-WEB-1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
